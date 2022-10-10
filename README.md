@@ -1,0 +1,13 @@
+Olá! Me chamo Matheus Araújo
+Estou disposto a trabalhar
+Não estudo no momento
+Me encontre em mathara621@gmail.com- 👋 Hi, I’m @MthAraujo
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+MthAraujo/MthAraujo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
